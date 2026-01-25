@@ -1,0 +1,3 @@
+C:/Users/daneb/CLionProjects/introToC/basics/cmake-build-debug/CMakeFiles/basics.dir
+C:/Users/daneb/CLionProjects/introToC/basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daneb/CLionProjects/introToC/basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
