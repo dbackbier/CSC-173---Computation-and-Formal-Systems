@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\strdup\\strdup.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\strdup\\strdup.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/strdup/strdup.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/strdup/strdup.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\main.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\main.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/main.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\stack.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\stack.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/stack.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/stack.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\parsetree.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\parsetree.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/parsetree.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/parsetree.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\recursive-descent-parser.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\recursive-descent-parser.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/recursive-descent-parser.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/recursive-descent-parser.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\table-driven-parser.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\table-driven-parser.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/table-driven-parser.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/table-driven-parser.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 2/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_2.dir\\queue.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 2\\queue.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 2/queue.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 2/cmake-build-debug/CMakeFiles/Project_2.dir/queue.c.obj"
+}
+]
