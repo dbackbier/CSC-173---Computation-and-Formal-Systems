@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 4/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_4.dir\\main.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 4\\main.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 4/main.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug/CMakeFiles/Project_4.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 4/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_4.dir\\string-extras.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 4\\string-extras.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 4/string-extras.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug/CMakeFiles/Project_4.dir/string-extras.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 4/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_4.dir\\hashSet.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 4\\hashSet.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 4/hashSet.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug/CMakeFiles/Project_4.dir/hashSet.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/daneb/.vscode/CSC 173/Project 4/.\" -std=c11 -Wall -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_4.dir\\database.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 4\\database.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 4/database.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 4/cmake-build-debug/CMakeFiles/Project_4.dir/database.c.obj"
+}
+]
