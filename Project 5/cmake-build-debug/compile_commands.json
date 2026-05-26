@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -std=c11 -Wall -Werror -Wno-unused-function -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_5.dir\\main.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 5\\main.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 5/main.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -std=c11 -Wall -Werror -Wno-unused-function -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_5.dir\\Boolean.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 5\\Boolean.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 5/Boolean.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir/Boolean.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -std=c11 -Wall -Werror -Wno-unused-function -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_5.dir\\Circuit.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 5\\Circuit.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 5/Circuit.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir/Circuit.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -std=c11 -Wall -Werror -Wno-unused-function -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_5.dir\\Gates.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 5\\Gates.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 5/Gates.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir/Gates.c.obj"
+},
+{
+  "directory": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -std=c11 -Wall -Werror -Wno-unused-function -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Project_5.dir\\strdup.c.obj -c \"C:\\Users\\daneb\\.vscode\\CSC 173\\Project 5\\strdup.c\"",
+  "file": "C:/Users/daneb/.vscode/CSC 173/Project 5/strdup.c",
+  "output": "C:/Users/daneb/.vscode/CSC 173/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir/strdup.c.obj"
+}
+]

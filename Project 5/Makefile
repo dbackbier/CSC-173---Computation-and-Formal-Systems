@@ -1,0 +1,25 @@
+#
+# File: Makefile
+# Creator: George Ferguson
+# Created: Mon Nov 28 13:52:02 2016
+#
+
+SRCS = Boolean.c Gates.c Circuit.c strdup.c main.c
+OBJS = $(SRCS:.c=.o)
+EXE = boosim
+
+CFLAGS = -std=c11 -Wall -Werror -Wno-unused-function -g
+
+$(EXE): $(OBJS)
+	$(CC) -o $@ $(OBJS)
+
+valgrind:
+	valgrind ./$(EXE)
+
+# macOS
+leaks: $(EXE)
+	leaks -atExit -- ./$(EXE)
+
+clean:
+	-rm -r $(OBJS) $(EXE) $(EXE).dSYM
+
